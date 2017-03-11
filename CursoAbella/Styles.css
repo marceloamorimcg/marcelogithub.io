@@ -1,0 +1,66 @@
+!{
+    box-sizing: border-box;
+}
+body {
+    background-color: #919390;
+    margin: 0;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color: #ffb976;
+    text-align: center;
+    padding: 15px;
+    margin: 25px;
+    border-radius: 50px;
+}
+    header .profile-picture{
+        width: 125px;
+        height: 125px;
+        border-radius: 50%;
+
+
+
+    }
+
+section{
+    background-color: #ffb976;
+    padding: 15px;
+    margin: 25px;
+    border-radius: 25px;
+
+
+
+}
+
+
+
+
+
+    section .titleh1{
+        color: #020205
+    }
+
+    section .titleh2{
+        color: #224aff
+    }
+    section .content{
+        color: #6e6c6c
+    }
+
+footer{
+    background-color: #919390;
+    text-align: center;
+    padding: 15px;
+    color: #1615b0;
+
+
+}
+
+
+section .profile-picture1{
+
+    width: 125px;
+    height: 125px;
+}
